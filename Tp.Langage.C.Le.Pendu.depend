@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1517942739 source:f:\mes documents\openclassrooms\apprenez à programmer en c !\programme\tp le pendu\tp.langage.c.le.pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"main.h"
+
+1517942424 f:\mes documents\openclassrooms\apprenez à programmer en c !\programme\tp le pendu\tp.langage.c.le.pendu\main.h
+
